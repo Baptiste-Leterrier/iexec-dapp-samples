@@ -19,9 +19,9 @@ Start a [Pull Request](https://github.com/iExecBlockchainComputing/iexec-dapp-sa
  * Go submit a request to be listed on the [iExec dapp store](https://dapps.iex.ec/)
 
 ---
-# My Dapp name
+# StockDapp
 ## Description
-My Dapp description here...
+Convert stock exchnage title to contract to ease ICO for company either on public stock exchange or for private fund raising.
 ## Dapp params
 An example of a iexec.js conf
 ## [Examples](./examples)
